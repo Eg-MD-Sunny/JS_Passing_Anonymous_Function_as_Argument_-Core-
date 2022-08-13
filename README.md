@@ -1,0 +1,1 @@
+# JS_Passing_Anonymous_Function_as_Argument_-Core-
